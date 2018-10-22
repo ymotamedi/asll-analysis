@@ -1,0 +1,12 @@
+# directories and files to ignore
+
+
+# ignore pyc files
+
+/*.pyc
+/*/*.pyc
+
+
+# ignore jupyter notebook checkpoints
+/.ipynb_checkpoints/*
+/*/.ipynb_checkpoints/*
