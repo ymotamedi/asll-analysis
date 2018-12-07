@@ -1,0 +1,7 @@
+chain,participant,director,target,ent_type,code_string,markerPres
+seed,s3,1,frying pan,obj,"2hFryingPan,1hHandle,2hFry,1hMixBatterInPan,2hHoldHandleAndFlipPancake",n
+seed,s8,1,to preach,act,1hShakeFingerInAir,n
+seed,s35,2,camera,obj,"2hCamera,2hCameraLense",n
+seed,s38,2,concert hall,loc,"2hTwoDimensionalOutlineOfRecangularStage,2hThreeDimensionalOutlineOfCircularStage,1hSingFromHeart,2hPlayViolin",n
+seed,s17,1,hairdresser,person,"1hCutHair,2hCutBeard,2hCutHair",n
+seed,s21,1,police officer,person,"1hTapOnGlass,1hHoldUpPoliceBadge,1hTapOnGlass,2hHornsOnHead,1hKnockOnGlass",n

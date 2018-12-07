@@ -1,0 +1,121 @@
+participant,chain,generation,trial,target,ent_type,code_string,markerPres
+full11,chain2,1,0,chef,person,"2hMoustache,2hChefHat,2hHoldAndShakeHandleOfPan",n
+full11,chain2,1,2,to cook,act,"2hCookingPot,1hStirPot,PointAtObject,1hStirPot,1hHoldAndShakeHandleOfPan",n
+full11,chain2,1,4,prison,loc,2hPrisonBars,n
+full11,chain2,1,6,to sing,act,2hSingToAudience ,n
+full11,chain2,1,8,singer,person,"2hSingToAudience,2hPointToSelf,2hSingToAudience",y
+full11,chain2,1,10,to take a photo,act,"2hCamera,1hPressButton",n
+full11,chain2,1,12,hairdresser,person,"1hWaveToClient,1hPointToClient,2hCutClientHair,1hPointToSelf,2hCutClientHair",y
+full11,chain2,1,14,vicar,person,"1hCross,1hPointAtSelf,2hPray,1hThankAudience",y
+full11,chain2,1,16,to give a haircut,act,"2hHairOnHead,2hCutHair",n
+full11,chain2,1,3,microphone,obj,"1hMicrophone,1hPointAtObject,1hMicrophone",y
+full11,chain2,1,5,restaurant,loc,"2hEatMeal,1hThankWaitor,2hEatMeal",n
+full11,chain2,1,22,photographer,person,"2hCamera,1hPressButton,1hDirectModel,1hPressButton",n
+full11,chain2,1,24,frying pan,obj,"2hFryingPan,2hHoldAndShakeHandleOfPan",n
+full11,chain2,1,26,concert hall,loc,"2hThreeDimensionalCircle,2hPlayViolin",y
+full11,chain2,1,11,scissors,obj,1hScissors,n
+full11,chain2,1,1,bible,obj,"2hBook,2hCross",n
+full11,chain2,1,21,camera,obj,"2hCamera,1hPressButton,2hCameraLense,1hPointAtObject",y
+full11,chain2,1,34,police officer,person,"1hStopSignal,1hTapOnGlass",n
+full11,chain2,1,15,darkroom,loc,2hFeelForWalls,n
+full11,chain2,1,7,church,loc,"1hOpenDoor,2hPray",n
+full11,chain2,1,33,to make an arrest,act,"1hStopSignal,1hPointFoward,2hHandcuffs",n
+full11,chain2,1,13,to preach,act,1hShakeFingerInAir,n
+full11,chain2,1,9,handcuffs,obj,"2hHandcuffs,1hPointAtObject,2hHandcuffs",y
+full11,chain2,1,17,hair salon,loc,"2hThreeDimensionalCircle,2hCutHair",y
+full24,chain3,2,1,to make an arrest,act,"1hTapOnGlass,2hHandcuffs",n
+full24,chain3,2,3,restaurant,loc,"2hBook,1hPointAtMenu",n
+full24,chain3,2,5,scissors,obj,"1hScissors,1hPointAtObj",y
+full24,chain3,2,7,to preach,act,2hSingToAudience ,n
+full24,chain3,2,9,microphone,obj,"1hMicrophone,1hPointAtObj",y
+full24,chain3,2,6,bible,obj,"2hBook,2hPray",n
+full24,chain3,2,13,hair salon,loc,"1hCutHair,2hHairOnHead",n
+full24,chain3,2,0,hairdresser,person,"2hCutHair,1hWaveToClient,2hCutHair",n
+full24,chain3,2,17,to give a haircut,act,2hCutHair,n
+full24,chain3,2,8,camera,obj,"2hCamera,1hPointAtObj",y
+full24,chain3,2,4,singer,person,"1hPointAtSelf,1hMicrophone",y
+full24,chain3,2,23,to sing,act,1hMicrophone,n
+full24,chain3,2,25,frying pan,obj,1hHoldAndShakeHandleOfPan,n
+full24,chain3,2,2,prison,loc,2hPrisonBars,n
+full24,chain3,2,29,to take a photo,act,"2hCamera,1hPressButton",n
+full24,chain3,2,31,concert hall,loc,"2hThreeDimensionalCircle,2hSingToAudience",n
+full24,chain3,2,33,handcuffs,obj,2hHandcuffs,n
+full24,chain3,2,12,darkroom,loc,"1hOpenDoor,2hFeelForWalls",n
+full24,chain3,2,18,police officer,person,"1hTapOnGlass,2hBadge",n
+full24,chain3,2,38,to cook,act,"2hCookingPot,1hHoldAndShakeHandleOfPan,2hCookingPot",n
+full24,chain3,2,41,church,loc,"2hRoof,2hPray",n
+full24,chain3,2,10,chef,person,"2hCookingPot,1hShakeFingerInAir",n
+full24,chain3,2,42,photographer,person,"1hPointAtSelf,2hCamera",y
+full24,chain3,2,16,vicar,person,"2hCollar,1hShakeFingerInAir",n
+full45,chain5,3,0,vicar,person,"1hCollar,2hBook,1hPointAtSelf",y
+full45,chain5,3,2,to cook,act,2hCookingPot,n
+full45,chain5,3,4,hair salon,loc,"2hOpenDoor,1hWaveToClient,2hCutHair",y?
+full45,chain5,3,6,police officer,person,"1hStopSignal,2hHandcuffs",n
+full45,chain5,3,8,church,loc,2hCross,n
+full45,chain5,3,10,to make an arrest,act,2hHandcuffs,n
+full45,chain5,3,7,handcuffs,obj,2hHandcuffs,n
+full45,chain5,3,14,to take a photo,act,"2hCamera,1hPressButton",n
+full45,chain5,3,3,to preach,act,"2hBook,1hCollar,1hCountAudience",n
+full45,chain5,3,1,darkroom,loc,2hFeelForWalls,n
+full45,chain5,3,20,camera,obj,"2hPressButton,1hPointAtObj",y
+full45,chain5,3,22,concert hall,loc,2hCountAudience,n
+full45,chain5,3,24,hairdresser,person,"2hCutClientHair,1hPointAtSelf",y
+full45,chain5,3,26,singer,person,1hMicrophone,n
+full45,chain5,3,17,restaurant,loc,"1hOpenDoor,2hHoldAndShakeHandleOfPan",n
+full45,chain5,3,5,to sing,act,1hMicrophone,n
+full45,chain5,3,21,chef,person,"2hChefHat,1hPointAtObj",n
+full45,chain5,3,31,prison,loc,"2hHandcuffs,2hPrisonBars",n
+full45,chain5,3,36,bible,obj,"2hBook,2hCross",n
+full45,chain5,3,11,frying pan,obj,1hHoldAndShakeHandleOfPan,n
+full45,chain5,3,33,to give a haircut,act,2hCutClientHair,n
+full45,chain5,3,19,scissors,obj,"1hScissors,1hPointAtObj",y
+full45,chain5,3,41,microphone,obj,"1hMicrophone,1hPointAtObj",y
+full45,chain5,3,27,photographer,person,"2hCamera,1hPressButton,1hPointAtSelf",y
+full37,chain4,4,0,police officer,person,"1hTapOnGlass,1hShakeFingerInAir",n
+full37,chain4,4,2,concert hall,loc,"1hCircleAroundSelf,2hPlayViolin",y
+full37,chain4,4,4,darkroom,loc,2hRoom,n
+full37,chain4,4,5,church,loc,"1hCircleAroundSelf,2hBook,1hSilence",y
+full37,chain4,4,8,to cook,act,2hCookingPot,n
+full37,chain4,4,10,to give a haircut,act,1hCutHair,n
+full37,chain4,4,12,scissors,obj,1hScissors,n
+full37,chain4,4,14,frying pan,obj,1hHoldAndShakeHandleOfPan,n
+full37,chain4,4,16,to take a photo,act,"2hCamera,1hPressButton",n
+full37,chain4,4,7,microphone,obj,"1hMicrophone,1hPointAtObj",y
+full37,chain4,4,3,singer,person,1hMicrophone,n
+full37,chain4,4,22,prison,loc,2hPrisonBars,n
+full37,chain4,4,24,to sing,act,"1hPointAtSelf,1hMicrophone",y
+full37,chain4,4,26,chef,person,"1hPointAtSelf,1hHoldAndShakeHandleOfPan",y
+full37,chain4,4,28,hair salon,loc,"1hCircleAroundSelf,1hCutHair",y
+full37,chain4,4,23,vicar,person,"1hPointAtSelf,1hCross,2hBook",y
+full37,chain4,4,25,hairdresser,person,"1hPointAtSelf,1hCutHair",y
+full37,chain4,4,9,photographer,person,"1hPointAtSelf,2hCamera,1hPressButton",y
+full37,chain4,4,27,camera,obj,"1hCamera,1hPointAtObj",y
+full37,chain4,4,13,to make an arrest,act,2hHandcuffs,n
+full37,chain4,4,21,to preach,act,"2hBook,1hShakeFingerInAir",n
+full37,chain4,4,1,bible,obj,2hBook,n
+full37,chain4,4,44,restaurant,loc,"2hEatMeal,1hThankWaitor",n
+full37,chain4,4,15,handcuffs,obj,2hHandcuffs,n
+full10,chain1,5,1,hairdresser,person,"1hPointAtSelf,1hCutHair",y
+full10,chain1,5,3,restaurant,loc,2hBook,n
+full10,chain1,5,4,prison,loc,"2hRoom,2hHandcuffs,2hRoom",y
+full10,chain1,5,7,camera,obj,"2hCamera,1hPressButton,1hPointAtObj,1hPressButton,1hPointAtObj",y
+full10,chain1,5,2,photographer,person,"2hCamera,1hPressButton,1hPointAtSelf",y
+full10,chain1,5,0,chef,person,"1hHoldAndShakeHandleOfPan,1hAddFood,1PointAtSelf",y
+full10,chain1,5,13,to take a photo,act,"2hCamera,1hPressButton",n
+full10,chain1,5,15,scissors,obj,"2hCutHair,1hPointAtObj",y
+full10,chain1,5,17,microphone,obj,"1hMicrophone,1hPointAtObject,1hMicrophone",y
+full10,chain1,5,16,to cook,act,"1hHoldAndShakeHandleOfPan,1hAddFood,1PointAtSelf",n
+full10,chain1,5,21,singer,person,"2hSingToAudience,2hPointToSelf,2hSingToAudience",y
+full10,chain1,5,23,frying pan,obj,"1hHoldAndShakeHandleOfPan,1hPointAtObj",y
+full10,chain1,5,14,handcuffs,obj,"2hHandcuffs,1hPointAtObject,2hHandcuffs",y
+full10,chain1,5,22,to make an arrest,act,"1hTapOnGlass,1hBadge,1hTapOnGlass,1hBadge",n
+full10,chain1,5,29,to give a haircut,act,1hCutHair,n
+full10,chain1,5,12,police officer,person,"1hTapOnGlass,1hBadge,1hPointAtSelf,1hTapOnGlass",y
+full10,chain1,5,30,to preach,act,"1hCross,2hBook,1hSingToAudience,1hPointAtSelf,1hSingToAudience",n
+full10,chain1,5,8,church,loc,"2hRoom,1hCollar",y
+full10,chain1,5,37,hair salon,loc,"2hRoom,1hCutHair",n
+full10,chain1,5,18,concert hall,loc,"2hRoom,2hSingToAudience",y
+full10,chain1,5,6,darkroom,loc,"2hRoom,2hCamera,1hPressButton",y
+full10,chain1,5,32,vicar,person,"1hPointAtSelf,1hCollar",y
+full10,chain1,5,38,bible,obj,"1hCross,2hBook,1hPointAtObj",y
+full10,chain1,5,10,to sing,act,2hSingToAudience ,n
