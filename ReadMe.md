@@ -2,6 +2,8 @@
 
 The files in this repository include data files and analysis for data across 3 experiments of a study that looks at the roles that interaction between language users and transmission of language to new users play in the evolution of systematic linguistic structure.
 
+Video data for the study can be found on the University of Edinburgh's DataShare, at https://datashare.is.ed.ac.uk/handle/10283/3191.
+
 ## Data files
 
 There are separate data files for experiments 1, 2 and 3.
@@ -27,11 +29,12 @@ Each file contains the following columns
 * **verb** - binary variable categorising noun targets from verb targets.
 * **vid_len** - length of gesture video recorded, in seconds.
 
+In addition, the file **seed_info.csv** gives identifiers for seed videos, allowing linking between generation 0 in the data files and seed videos stored at the link given above.
 
 
 ## Analysis notebooks
 
-The analysis notebooks are Jupyter Notebooks that run a Python 2.7 kernel and the rpy2 library, that allows cells in R to be inserted into a notebook using a Python kernel. Analysis is divided into three notebooks. 
+The analysis notebooks are Jupyter Notebooks that run a Python 2.7 kernel and the rpy2 library, that allows cells in R to be inserted into a notebook using a Python kernel. Analysis is divided into three notebooks.
 
 * **Efficiency results** - results pertaining to efficiency measures. This includes measures of gesture length and the frequency of repeated gestures.
 * **Systematicity results** - results pertaining to systematicity measures. This includes measures of marker frequency and entropy of gesture sets.
