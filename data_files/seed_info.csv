@@ -1,0 +1,49 @@
+target word,vid.length,participant,set,vid.name
+to make an arrest,7.00185,s24,A,arrest1
+to make an arrest,7.00185,s48,B,arrest2
+bible,7.001111999999999,s7,A,bible1
+bible,7.001111999999999,s31,B,bible2
+camera,7.0014389999999995,s11,A,camera1
+camera,7.0014389999999995,s35,B,camera2
+chef,7.001602,s1,A,chef1
+chef,7.001602,s25,B,chef2
+church,6.997917,s6,A,church1
+church,6.997917,s30,B,church2
+concert hall,7.000611,s14,A,concert_hall1
+concert hall,7.000611,s38,B,concert_hall2
+to cook,6.997928,s4,A,cook1
+to cook,6.997928,s28,B,cook2
+darkroom,7.001,s10,A,darkroom1
+darkroom,7.001,s34,B,darkroom2
+frying pan,7.001877,s3,A,frying_pan1
+frying pan,7.001877,s27,B,frying_pan2
+hair salon,7.001237,s18,A,hair_salon1
+hair salon,7.001237,s42,B,hair_salon2
+to give a haircut,7.001008000000001,s20,A,haircut1
+to give a haircut,7.001008000000001,s44,B,haircut2
+hairdresser,7.001098,s17,A,hairdresser1
+hairdresser,7.001098,s41,B,hairdresser2
+handcuffs,7.000437,s23,A,handcuffs1
+handcuffs,7.000437,s47,B,handcuffs2
+microphone,7.001608999999999,s15,A,microphone1
+microphone,7.001608999999999,s39,B,microphone2
+photographer,7.001672,s9,A,photographer1
+photographer,7.001672,s33,B,photographer2
+police officer,6.997071000000001,s21,A,police_officer1
+police officer,6.997071000000001,s45,B,police_officer2
+to preach,7.001307000000001,s8,A,preach1
+to preach,7.001307000000001,s32,B,preach2
+prison,7.001,s22,A,prison1
+prison,7.001,s46,B,prison2
+restaurant,7.001435000000001,s2,A,restaurant1
+restaurant,7.001435000000001,s26,B,restaurant2
+scissors,6.997856,s19,A,scissors1
+scissors,6.997856,s43,B,scissors2
+to sing,7.001574000000001,s16,A,sing1
+to sing,7.001574000000001,s40,B,sing2
+singer,6.997095,s13,A,singer1
+singer,6.997095,s37,B,singer2
+to take a photo,6.997058999999999,s12,A,take_photo1
+to take a photo,6.997058999999999,s36,B,take_photo2
+vicar,7.001,s5,A,vicar1
+vicar,7.001,s29,B,vicar2
