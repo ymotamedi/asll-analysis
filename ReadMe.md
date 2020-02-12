@@ -29,8 +29,13 @@ Each file contains the following columns
 * **verb** - binary variable categorising noun targets from verb targets.
 * **vid_len** - length of gesture video recorded, in seconds.
 
-In addition, the file **seed_info.csv** gives identifiers for seed videos, allowing linking between generation 0 in the data files and seed videos stored at the link given above.
+In addition, the file **seed_info.csv** gives identifiers for seed videos, allowing linking between generation 0 in the data files and seed videos stored at the link given above. This file contains the following columns:
 
+* **target word** - word the gesture is intended to represent
+* **vid.length** - length of the video in seconds (approx. 7 seconds for all seed videos)
+* **participant** - participant/video identifier
+* **set** - two seed sets were recorded; this denotes which set the video belongs to
+* **vid.name** - name of the video file as stored in the DataShare repository
 
 ## Analysis notebooks
 
